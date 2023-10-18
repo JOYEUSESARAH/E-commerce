@@ -1,0 +1,11 @@
+ADMIN:
+username:joyeuse
+password:joyeuse007@
+
+EDITRICE:
+username:carine
+password:joyeuse007@
+ 
+EDITRICE/
+username:julienne
+password: joyeuse007@
